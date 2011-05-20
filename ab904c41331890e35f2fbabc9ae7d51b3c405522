@@ -1,0 +1,8 @@
+Change-Id: Iab904c41331890e35f2fbabc9ae7d51b3c405522
+Code-Review+2: Jean-Baptiste Queru <jbq@google.com>
+Verified+1: Jean-Baptiste Queru <jbq@google.com>
+Submitted-by: Jean-Baptiste Queru <jbq@google.com>
+Submitted-at: Thu, 28 Jan 2010 08:23:31 -0700
+Reviewed-on: https://review.source.android.com/13337
+Project: platform/packages/wallpapers/Basic
+Branch: refs/heads/eclair
