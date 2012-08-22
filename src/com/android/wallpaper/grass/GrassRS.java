@@ -356,7 +356,7 @@ class GrassRS extends RenderScriptScene {
 
     private class LocationUpdater implements LocationListener {
         public void onLocationChanged(Location location) {
-            updateLocation(location);
+            if (mLocationUpdater != null) updateLocation(location);
         }
 
         public void onStatusChanged(String provider, int status, Bundle extras) {
